@@ -91,6 +91,3 @@ This project provided hands-on experience with:
 - Persistent storage engine integration
 - Automated deployment with container orchestration
 
-## License
-
-This project is intended for educational and research purposes.
